@@ -1,1 +1,45 @@
-creates test1.txt file
+<center>
+    <form>
+        <table>
+        <tr>
+            <td>
+                Name:
+            </td>
+            <td>
+                <input type="text">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Email:
+            </td>
+            <td>
+                <input type="email">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Dept:                
+            </td>
+            <td>
+                <select>
+                    <option>IT</option>
+                    <option>ECE</option>
+                    <option>AIDS</option>
+                    <option>CSE</option>
+                </select>
+            </td>
+            <tr>
+                <td>Gender:</td>
+                <td>
+                    <input type="radio" name="Gender">Male<input type="radio" name="Gender">Female
+                </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td><input type="submit"> <input type="reset"</td>
+            </tr>
+        </tr>
+        </table>
+    </form>
+</center>
